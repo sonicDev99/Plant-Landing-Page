@@ -16,12 +16,7 @@
 
 ---
 
-<a href='#'>
-  
-## 👉 <img src='https://img.shields.io/badge/Live_preview-blue?style=for-the-badge'>
-  
-</a>
-
+## 👉 [![homepage](https://img.shields.io/badge/Live_preview-blue?style=for-the-badge)](https://ornate-licorice-70bc1b.netlify.app/ 'Redirect to homepage')
 
 ---
 
